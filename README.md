@@ -1,2 +1,4 @@
 # mws-extension
-code for the paper
+Code for the journal paper
+
+Code will be released after the paper is published
